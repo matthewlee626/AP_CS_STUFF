@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hero()
+comment1.params=
+comment1.target=void\ addPotion()
+comment2.params=
+comment2.target=java.util.ArrayList\ getPotions()
+comment3.params=
+comment3.target=boolean\ usePotion()
+comment4.params=weapon
+comment4.target=void\ changeWeapon(Weapon)
+comment5.params=
+comment5.target=Weapon\ getWeapon()
+comment6.params=
+comment6.target=void\ getArmor()
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=damage_min\ damage_max
+comment0.target=Weapon(int,\ int)
+comment1.params=
+comment1.target=int\ doDamage()
+numComments=2

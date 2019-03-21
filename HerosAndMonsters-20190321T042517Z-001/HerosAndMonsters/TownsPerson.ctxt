@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=type\ line\ amtKilled
+comment0.target=TownsPerson(char,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=char\ getType()
+comment2.params=
+comment2.target=java.lang.String\ speak()
+comment3.params=
+comment3.target=int\ reqs()
+comment4.params=
+comment4.target=boolean\ active()
+comment5.params=
+comment5.target=void\ deact()
+numComments=6

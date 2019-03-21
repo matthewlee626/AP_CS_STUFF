@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=health
+comment0.target=Squishy(int)
+comment1.params=
+comment1.target=int\ getHealth()
+comment2.params=health
+comment2.target=void\ setHealth(int)
+comment3.params=damage
+comment3.target=void\ takeDamage(int)
+comment4.params=
+comment4.target=boolean\ isDead()
+numComments=5
